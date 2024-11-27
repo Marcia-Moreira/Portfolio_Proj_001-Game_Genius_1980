@@ -33,14 +33,19 @@ Game GENIUS - Brinquedos Estrela - Lançamento 1980
    git clone https://github.com/Marcia-Moreira/Portfolio_Proj_001-Game_Genius_1980.git
 
 ## Imagens do Projeto
+<!-- -->
 
-<!--![Captura de Tela](./img/img_deploy_01.png)-->
-<img src="./img/img_deploy_01.png" alt="Captura de Tela 1" width="500">
+<!-- ![Captura de Tela](./img/img_deploy_01.png) -->
+<img src="./img/img_deploy_01.png" alt="Captura de Tela 1" width="500" border-radius="5">
 
-![Captura de Tela](./img/img_deploy_02.png)
+<!-- ![Captura de Tela](./img/img_deploy_02.png) -->
+<img src="./img/img_deploy_02.png" alt="Captura de Tela 2" width="500">
 
-![Captura de Tela](./img/img_deploy_03.png)
+<!-- ![Captura de Tela](./img/img_deploy_03.png) -->
+<img src="./img/img_deploy_03.png" alt="Captura de Tela 3" width="500">
 
-![Captura de Tela](./img/img_deploy_04.png)
+<!-- ![Captura de Tela](./img/img_deploy_04.png) -->
+<img src="./img/img_deploy_04.png" alt="Captura de Tela 4" width="500">
 
-![Captura de Tela](./img/img_deploy_05.png)
+<!-- ![Captura de Tela](./img/img_deploy_05.png) -->
+<img src="./img/img_deploy_05.png" alt="Captura de Tela 5" width="500">
