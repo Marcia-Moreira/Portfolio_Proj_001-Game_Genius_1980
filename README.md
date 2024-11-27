@@ -5,7 +5,6 @@ Portfolio_Proj_001-Game_Genius_1980
 Game GENIUS - Brinquedos Estrela - Lançamento 1980
 
 🔵🟢🔴🟡 Criado nos anos 80, o Genius foi um marco da memória e diversão lançado pela Brinquedos Estrela, desafiando jogadores com sequências cada vez mais complexas de luzes e sons. 🎶✨
-Breve descrição do projeto.
 
 # Link do Projeto Finalizado:
 
@@ -16,7 +15,7 @@ Breve descrição do projeto.
 
 ## Tecnologias Utilizadas
 - HTML
-- -CSS3
+- CSS3
 - JavaScript
 - Bootstrap
 
@@ -29,4 +28,10 @@ Breve descrição do projeto.
 
 ![Captura de Tela](./img/img_deploy_01.png)
 
-![Captura de Tela](images/screenshot.png)
+![Captura de Tela](./img/img_deploy_02.png)
+
+![Captura de Tela](./img/img_deploy_03.png)
+
+![Captura de Tela](./img/img_deploy_04.png)
+
+![Captura de Tela](./img/img_deploy_05.png)
