@@ -1,11 +1,12 @@
-# Portfolio_Proj_001-Game_Genius_1980
-  Portfolio_Proj_001-Game_Genius_1980
+# Portfolio_Proj_001-Game_Genius_1980:
 
-## Motivação para Produção deste Projeto:
-Jogo reproduzido para ser usado em encontro de família em viagem de fim de ano.
+Este repositório faz parte de uma série de projetos que demonstram minhas habilidades técnicas e de criatividade, com foco em aplicações interativas e responsivas de desenvolvimento front-end incluídos no meu Portfólio.
 
-## Nome do Projeto: GAME GENIUS
-Game GENIUS - Brinquedos Estrela - Lançamento 1980
+## Motivação para produção deste Projeto:
+Jogo retrô, reproduzido para ser usado em encontros famíliares, nas festividades de fim de ano! 
+
+## Nome do Projeto: GENIUS GAME
+GENIUS Game - by Brinquedos Estrela - Lançamento 1980
 
 🔵🟢🔴🟡 Criado nos anos 80, o Genius foi um marco da memória e diversão lançado pela Brinquedos Estrela, desafiando jogadores com sequências cada vez mais complexas de luzes e sons. 🎶✨
 
@@ -24,13 +25,41 @@ Game GENIUS - Brinquedos Estrela - Lançamento 1980
 - ⚡ Velocidade gradativa (opcional): O jogador pode ativar um modo onde a velocidade de exibição das cores aumenta progressivamente, dificultando ainda mais a memorização.
 - 🎵 Efeitos sonoros para cada botão: Cada botão emite um som específico ao ser pressionado, ajudando na memorização.
 - 🖌️ Interface interativa e nostálgica: Design inspirado no jogo clássico dos anos 80, com botões coloridos e animações simples.
-- 📄 Card 3D: para expôr as orientações e Instruções do jogo em português e inglês.
+- 📄 Card 3D: para expôr as informações e Instruções do jogo em português e inglês.
 
 ## Tecnologias Utilizadas:
 
-## Badges:
+**Badges**:
+<!-- ### Linguagens: -->
+<div style="display: inline_block" align="center">
+    <h3>Linguagens:</h3>
+    <img align="center" alt="MM-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    &nbsp;&nbsp;&nbsp;
+    <img align="center" alt="MM-Html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+    &nbsp;&nbsp;&nbsp;
+    <img align="center" alt="MM-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+    &nbsp;&nbsp;&nbsp;
+    <img align="center" alt="MM-MarkDounw" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
+</div>
 
+<div style="display: inline_block" align="center">
+    <h3>Versionadores:</h3>
+    <img align="center" alt="MM-Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+     &nbsp;&nbsp;&nbsp;
+    <img align="center" alt="MM-GitHub" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+     &nbsp;&nbsp;&nbsp;
+     <!-- <img align="center" alt="MM-GitHubPage" height="30" width="40" src=""> -->
+</div>
 
+<!-- ### FrameWork / IDE's / Ferramentas Diversas: -->
+<div style="display: inline_block" align="center">
+    <h3>FrameWork / IDE's / Ferramentas Diversas:</h3>
+    <img align="center" alt="MM-BootStrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+     &nbsp;&nbsp;&nbsp;
+    <img align="center" alt="MM-Trello" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">
+    &nbsp;&nbsp;&nbsp;
+    <img align="center" alt="MM-Trello" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+</div>
 
 - **HTML5:** Estruturação do conteúdo e marcação semântica do jogo Genius.
 
