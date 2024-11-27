@@ -11,7 +11,15 @@ Game GENIUS - Brinquedos Estrela - Lançamento 1980
 ☑️ Projeto finalizado / Deploy no GitHub Pages: https://marcia-moreira.github.io/Portfolio_Proj_001-Game_Genius_1980/
 
 ## Funcionalidades
-- Liste as funcionalidades principais.
+- 🎮 Reprodução de sequência de cores: O jogo exibe uma sequência aleatória de cores que o jogador precisa memorizar e repetir na mesma ordem.
+- ⏱️ Aumento de dificuldade progressivo: A cada rodada, uma nova cor é adicionada à sequência, tornando o jogo mais desafiador.
+- ⚡ Velocidade gradativa (opcional): O jogador pode ativar um modo onde a velocidade de exibição das cores aumenta progressivamente, dificultando ainda mais a memorização.
+- ✅ Verificação de acertos: O jogo compara a sequência fornecida pelo jogador com a sequência gerada, determinando se ele acertou ou errou.
+- 📈 Pontuação acumulada: O jogo exibe a pontuação atual com base na quantidade de rodadas concluídas.
+- 🔁 Reinício do jogo: Após um erro, o jogador pode reiniciar a partida para tentar novamente.
+- 🔒 Modo estrito (strict): No modo estrito, o jogo é encerrado imediatamente ao primeiro erro, desafiando ainda mais o jogador a acertar todas as sequências sem falhas.
+- 🎵 Efeitos sonoros para cada botão: Cada botão emite um som específico ao ser pressionado, ajudando na memorização.
+- 🖌️ Interface interativa e nostálgica: Design inspirado no jogo clássico dos anos 80, com botões coloridos e animações simples.
 
 ## Tecnologias Utilizadas
 - HTML
@@ -26,7 +34,8 @@ Game GENIUS - Brinquedos Estrela - Lançamento 1980
 
 ## Imagens do Projeto
 
-![Captura de Tela](./img/img_deploy_01.png)
+<!--![Captura de Tela](./img/img_deploy_01.png)-->
+<img src="./img/img_deploy_01.png" alt="Captura de Tela 1" width="500">
 
 ![Captura de Tela](./img/img_deploy_02.png)
 
