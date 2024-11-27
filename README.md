@@ -34,20 +34,20 @@ Game GENIUS - Brinquedos Estrela - Lançamento 1980
 
 ## Imagens do Projeto
 <!-- -->
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center; gap: 30px;">
    <!-- ![Captura de Tela](./img/img_deploy_01.png) -->
-   <img src="./img/img_deploy_01.png" alt="Captura de Tela 1" width="500" style="border-radius: 5px;">
+   <img src="./img/img_deploy_01.png" alt="Captura de Tela 1" width="300" style="border-radius: 10px;">
    
    <!-- ![Captura de Tela](./img/img_deploy_02.png) -->
-   <img src="./img/img_deploy_02.png" alt="Captura de Tela 2" width="500" style="border-radius: 5px;">
+   <img src="./img/img_deploy_02.png" alt="Captura de Tela 2" width="300" style="border-radius: 10px;">
    
    <!-- ![Captura de Tela](./img/img_deploy_03.png) -->
-   <img src="./img/img_deploy_03.png" alt="Captura de Tela 3" width="500" style="border-radius: 5px;">
+   <img src="./img/img_deploy_03.png" alt="Captura de Tela 3" width="300" style="border-radius: 10px;">
    
    <!-- ![Captura de Tela](./img/img_deploy_04.png) -->
-   <img src="./img/img_deploy_04.png" alt="Captura de Tela 4" width="500" style="border-radius: 5px;">
+   <img src="./img/img_deploy_04.png" alt="Captura de Tela 4" width="300" style="border-radius: 10px;">
    
    <!-- ![Captura de Tela](./img/img_deploy_05.png) -->
-   <img src="./img/img_deploy_05.png" alt="Captura de Tela 5" width="500" style="border-radius: 5px;">
+   <img src="./img/img_deploy_05.png" alt="Captura de Tela 5" width="300" style="border-radius: 10px;">
 </div>
 
