@@ -1,17 +1,18 @@
 # Portfolio_Proj_001-Game_Genius_1980
   Portfolio_Proj_001-Game_Genius_1980
 
-# Nome do Projeto:
+## Motivação para Produção deste Projeto:
+Jogo reproduzido para ser usado em encontro de família em viagem de fim de ano.
+
+## Nome do Projeto: GAME GENIUS
 Game GENIUS - Brinquedos Estrela - Lançamento 1980
 
 🔵🟢🔴🟡 Criado nos anos 80, o Genius foi um marco da memória e diversão lançado pela Brinquedos Estrela, desafiando jogadores com sequências cada vez mais complexas de luzes e sons. 🎶✨
 
 ## Link do Projeto Finalizado:
-
 ☑️ Projeto finalizado / Deploy no GitHub Pages: https://marcia-moreira.github.io/Portfolio_Proj_001-Game_Genius_1980/
 
 ## Funcionalidades Iniciais:
-
 - 🎮 Reprodução de sequência de cores: O jogo exibe uma sequência aleatória de cores que o jogador precisa memorizar e repetir na mesma ordem.
 - ⏱️ Aumento de dificuldade progressivo: A cada rodada, uma nova cor é adicionada à sequência, tornando o jogo mais desafiador.
 - ✅ Verificação de acertos: O jogo compara a sequência fornecida pelo jogador com a sequência gerada, determinando se ele acertou ou errou.
@@ -20,13 +21,16 @@ Game GENIUS - Brinquedos Estrela - Lançamento 1980
 - 🔒 Modo estrito (strict): No modo estrito, o jogo é encerrado imediatamente ao primeiro erro, desafiando ainda mais o jogador a acertar todas as sequências sem falhas.
 
 ## Implementação de Melhorias de Funcionalidades:
-
 - ⚡ Velocidade gradativa (opcional): O jogador pode ativar um modo onde a velocidade de exibição das cores aumenta progressivamente, dificultando ainda mais a memorização.
 - 🎵 Efeitos sonoros para cada botão: Cada botão emite um som específico ao ser pressionado, ajudando na memorização.
 - 🖌️ Interface interativa e nostálgica: Design inspirado no jogo clássico dos anos 80, com botões coloridos e animações simples.
 - Card de Instruções.
 
 ## Tecnologias Utilizadas:
+
+## Badges:
+
+
 
 - **HTML5:** Estruturação do conteúdo e marcação semântica do jogo Genius.
 
@@ -48,11 +52,6 @@ Ferramentas de apoio:
 - **VS Code:** Ambiente de desenvolvimento.
 - **Bootstrap Icons:** Ícones navegáveis e sofisticados.
 - **Trello:** Para organizar as etapas do projeto.
-
-## Como Rodar o Projeto Localmente:
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/Marcia-Moreira/Portfolio_Proj_001-Game_Genius_1980.git
 
 ## Imagens do Projeto:
 <!-- -->
@@ -76,7 +75,42 @@ Ferramentas de apoio:
    <img src="./img/img_deploy_06.png" alt="Captura de Tela 5" width="300" style="margin-right: 10px; border-radius: 10px;">
 </div>
 
-## Registros:
-- Desenvolvimento Web => Marcia Moreira
+## Links e Referências do projeto inicial:
+
+- https://youtube.com/playlist?list=PL28O_hEAqjAtOPTlRHkHrhfmct_USCGfI&si=7A3XVJJtETKnUQmn
+- https://github.com/inkasadev/genius-starter-files
+- http://bit.ly/GeniusFinal
+- Créditos - Canal Youtube incasadev
+
+## Como Rodar o Projeto Localmente:
+1. Clone o repositório:
+
+   git clone https://github.com/Marcia-Moreira/Portfolio_Proj_001-Game_Genius_1980.git
+
+## Minhas idéias de melhorias na implantação:
+- ~~Delay no iniciar próxima sequencia.~~
+- ~~Ao clicar ta ficando marcado o quadrado intiero e está bem feio!~~
+- ~~Botar botão de tirar som?~~
+- ~~Fazer oos botões/pads crescerem ao serem clicados~~
+- ~~Ajustar o tamanho da marca registrada~~
+- ~~Rever os margins e paddis laterais excessivos do codigo agora que está centralizado~~
+- ~~Melhorar a borda do botão on/off~~
+- ~~Centralizar melhor os ítens de dentro do globo central do jogo.~~
+- ~~Colocar um botão/ícone de aceleração do jogo.~~
+- ~~Criar setor de Instruções do Jogo (Card), com frente em Português e verso em Inglês.~~
+- ~~Criar link no Nome do Jogo, na página do jogo, que leva para a página de Intruções.~~
+- ~~Criar link no Rodapé do Jogo, na página do jogo, que leva para a página de Intruções.~~
+- ~~Estilizar movimento para os links de página para ressaltar ação ao passar o mouse = hover.~~
+- ~~Centralizar as âncoras dos link para o topo da página~~
+- ~~Verificar o motivo do card estar fora de centralização horizontal da página~~
+- ~~Criar condição para acelerar a mudança de cores a cada 3 níveis alcansado (front ok)~~
+- ~~Ver se colocamos limites de responsividade no card de instruções~~
+- Dar um padding no final do card
+- Mudar as cores das teclas?
+- Verificar se criamos efeito de afundar botão ao apertar!
+
+## Registros da Construção 🧱:
+- Desenvolvimento Web => **Marcia Moreira**
 - Iniciado => 18/11/2024.
 - Finalizado Primeiro Deploy => 26/11/2024.
+- Link WhatsApp => Https://wa.me/5511977219430
