@@ -24,7 +24,7 @@ Game GENIUS - Brinquedos Estrela - Lançamento 1980
 - ⚡ Velocidade gradativa (opcional): O jogador pode ativar um modo onde a velocidade de exibição das cores aumenta progressivamente, dificultando ainda mais a memorização.
 - 🎵 Efeitos sonoros para cada botão: Cada botão emite um som específico ao ser pressionado, ajudando na memorização.
 - 🖌️ Interface interativa e nostálgica: Design inspirado no jogo clássico dos anos 80, com botões coloridos e animações simples.
-- Card de Instruções.
+- 📄 Card 3D: para expôr as orientações e Instruções do jogo em português e inglês.
 
 ## Tecnologias Utilizadas:
 
@@ -113,4 +113,5 @@ Ferramentas de apoio:
 - Desenvolvimento Web => **Marcia Moreira**
 - Iniciado => 18/11/2024.
 - Finalizado Primeiro Deploy => 26/11/2024.
+- Atualização do Projeto: N/A
 - Link WhatsApp => Https://wa.me/5511977219430
