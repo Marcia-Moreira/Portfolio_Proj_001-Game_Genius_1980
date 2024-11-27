@@ -34,7 +34,7 @@ Game GENIUS - Brinquedos Estrela - Lançamento 1980
 
 ## Imagens do Projeto
 <!-- -->
-<div style="display: flex; justify-content: center; gap: 30;">
+<div style="display: flex; justify-content: center; gap: 50;">
    <!-- ![Captura de Tela](./img/img_deploy_01.png) -->
    <img src="./img/img_deploy_01.png" alt="Captura de Tela 1" width="300" style="border-radius: 10;">
    
