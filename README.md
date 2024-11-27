@@ -23,10 +23,10 @@ Breve descrição do projeto.
 ## Como Rodar o Projeto Localmente
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_PROJETO.git
+   git clone https://github.com/Marcia-Moreira/Portfolio_Proj_001-Game_Genius_1980.git
 
 ## Imagens do Projeto
 
-![Captura de Tela](images/screenshot.png)
+![Captura de Tela](./img/img_deploy_01.png)
 
 ![Captura de Tela](images/screenshot.png)
