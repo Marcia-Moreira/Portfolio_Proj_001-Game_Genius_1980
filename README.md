@@ -26,6 +26,7 @@ Jogo retrô, reproduzido para ser usado em encontros famíliares, nas festividad
 - ⚡ Velocidade gradativa (opcional): O jogador pode ativar um modo onde a velocidade de exibição das cores aumenta progressivamente, dificultando ainda mais a memorização.
 - 🖌️ Interface interativa e nostálgica: Design inspirado no jogo clássico dos anos 80, com botões coloridos e animações simples.
 - 📄 Card 3D: para expôr as informações e Instruções do jogo em português e inglês.
+- 🎵 Mutar efeitos sonoros: Caso seja necessário jogar em silêncio, foi criada opção de retirar o som da aplicação. 
 
 ## Tecnologias Utilizadas:
 <div style="display: inline_block" align="center">
@@ -105,26 +106,26 @@ Ferramentas de apoio:
    git clone https://github.com/Marcia-Moreira/Portfolio_Proj_001-Game_Genius_1980.git
 
 ## Minhas idéias de melhorias, implementadas durante o desenvolvimento:
-- Delay no iniciar próxima sequencia => OK
-- Ao clicar ta ficando marcado default do quadrado inteiro, e está bem feio! => OK
-- Botar botão de tirar som? Sim. Podemos já desativar o som. => OK
-- Fazer oos botões/pads crescerem ao serem clicados => OK
-- Ajustar o tamanho da marca registrada => OK
-- Rever os margins e paddis laterais excessivos do codigo agora que está centralizado => OK
-- Melhorar a borda do botão on/off => OK
-- Centralizar melhor os ítens de dentro do globo central do jogo => OK
-- Colocar um botão/ícone de aceleração do jogo. => OK
-- Criar setor de Instruções do Jogo (Card), com frente em Português e verso em Inglês => OK
-- Criar link no Nome do Jogo, na página do jogo, que leva para a página de Intruções => OK
-- Criar link no Rodapé do Jogo, na página do jogo, que leva para a página de Intruções => OK
-- Estilizar movimento para os links de página para ressaltar ação ao passar o mouse = hover => OK
-- Centralizar as âncoras dos link para o topo da página => OK
-- Verificar o motivo do card estar fora de centralização horizontal da página => OK
-- Criar condição para acelerar a mudança de cores a cada 3 níveis alcançado (front ok) => OK
-- Ver se colocamos limites de responsividade no card de instruções => OK
-- Dar um padding no final do card => N/A
-- Mudar as cores das teclas? => N/A
-- Verificar se criamos efeito de afundar botão ao apertar! => N/A
+[ OK ] Delay no iniciar próxima sequencia
+[ OK ] Ao clicar ta ficando marcado default do quadrado inteiro, e está bem feio!
+[ OK ] Botar botão de tirar som? Sim. Podemos já desativar o som.
+[ OK ] Fazer oos botões/pads crescerem ao serem clicados
+[ OK ] Ajustar o tamanho da marca registrada
+[ OK ] Rever os margins e paddis laterais excessivos do codigo agora que está centralizado
+[ OK ] Melhorar a borda do botão on/off
+[ OK ] Centralizar melhor os ítens de dentro do globo central do jogo
+[ OK ] Colocar um botão/ícone de aceleração do jogo
+[ OK ] Criar setor de Instruções do Jogo (Card), com frente em Português e verso em Inglês
+[ OK ] Criar link no Nome do Jogo, na página do jogo, que leva para a página de Intruções
+[ OK ] Criar link no Rodapé do Jogo, na página do jogo, que leva para a página de Intruções
+[ OK ] Estilizar movimento para os links de página para ressaltar ação ao passar o mouse = hover
+[ OK ] Centralizar as âncoras dos link para o topo da página
+[ OK ] Verificar o motivo do card estar fora de centralização horizontal da página
+[ OK ] Criar condição para acelerar a mudança de cores a cada 3 níveis alcançado (front ok)
+[ OK ] Ver se colocamos limites de responsividade no card de instruções
+[    ] Dar um padding no final do card
+[    ] Mudar as cores das teclas ou mantem as cores originais?
+[    ] Verificar se criamos efeito de afundar botão ao apertar!
 
 ## Registros da Construção 🧱:
 - Desenvolvimento Web => *Marcia Moreira*
