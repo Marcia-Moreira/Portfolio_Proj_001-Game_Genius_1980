@@ -29,11 +29,11 @@ Jogo retrô, reproduzido para ser usado em encontros famíliares, nas festividad
 
 ## Tecnologias Utilizadas:
 <div style="display: inline_block" align="center">
-    <img align="center" alt="MM-Js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-Html" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
     &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+    &nbsp;&nbsp;&nbsp;
+    <img align="center" alt="MM-Js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-MarkDounw" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
     &nbsp;&nbsp;&nbsp;
@@ -48,7 +48,6 @@ Jogo retrô, reproduzido para ser usado em encontros famíliares, nas festividad
     &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-Trello" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">
     &nbsp;&nbsp;&nbsp;
-    <img align="center" alt="MM-Trello" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 </div>
 
 - **HTML5:** Estruturação do conteúdo e marcação semântica do jogo Genius.
@@ -128,12 +127,12 @@ Ferramentas de apoio:
 - Verificar se criamos efeito de afundar botão ao apertar! => N/A
 
 ## Registros da Construção 🧱:
-- Desenvolvimento Web => **Marcia Moreira**
-- Iniciado => 18/11/2024.
-- Finalizado Primeiro Deploy => 26/11/2024.
+- Desenvolvimento Web => *Marcia Moreira*
+- Iniciado => 18/11/2024
+- Finalizado Primeiro Deploy => 26/11/2024
 - Atualização do Projeto => N/A
-- Link WhatsApp => +55 11 97721-9430
-<div style="display: inline_block" align="center">
+- WhatsApp => *+55 11 97721-9430*
+<div style="display: inline_block">
     <!-- WhatsApp -->
     <a href="https://wa.me/5511977219430" alt="Meu_WhatsApp" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> &nbsp;
     <!-- Linkedin -->
