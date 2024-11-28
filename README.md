@@ -8,7 +8,7 @@ Este repositório faz parte de uma série de projetos que demonstram minhas habi
 ## Nome do Projeto: GENIUS GAME
 GENIUS Game - by Brinquedos Estrela - Lançamento 1980.
 
-🔵🟢🔴🟡 Criado nos anos 80, o Genius foi um marco da memória e diversão lançado pela Brinquedos Estrela, desafiando jogadores com sequências cada vez mais complexas de luzes e sons. 🎶✨
+🔵🟢🔴🟡 Criado nos anos 80, o _Genius_ foi um marco da memória e diversão lançado pela _Brinquedos Estrela_, desafiando jogadores com sequências cada vez mais complexas de luzes e sons. 🎶✨
 
 ## Motivação para produção deste Projeto:
 Jogo retrô, reproduzido para ser usado em encontros famíliares, nas festividades de fim de ano, com propósito de promover a interação em partidas coletivas e entreterimento! 
@@ -29,6 +29,7 @@ Jogo retrô, reproduzido para ser usado em encontros famíliares, nas festividad
 - 🎵 Mutar efeitos sonoros: Caso seja necessário jogar em silêncio, foi criada opção de retirar o som da aplicação. 
 
 ## Tecnologias Utilizadas:
+<!-- https://devicon.dev/ -->
 <div style="display: inline_block" align="center">
     <img align="center" alt="MM-Html" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
     &nbsp;&nbsp;&nbsp;
@@ -42,12 +43,14 @@ Jogo retrô, reproduzido para ser usado em encontros famíliares, nas festividad
     &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-GitHub" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
     &nbsp;&nbsp;&nbsp;
-    <!-- <img align="center" alt="MM-GitHubPage" height="30" width="40" src=""> -->
-    <a href="https://marcia-moreira.github.io/Challange_01-WoMakersCode-Intro_Star_Wars_MM/" alt="Minha_Pagina" target="_blank"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-    &nbsp;&nbsp;&nbsp;    
+    <!-- <img align="center" alt="MM-GitHubPage" height="20" width="30" src=""> -->
+    <a href="https://marcia-moreira.github.io/Challange_01-WoMakersCode-Intro_Star_Wars_MM/" alt="Minha_Pagina" target="_blank"><img align="center" height="30" width="50" src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+    &nbsp;&nbsp;&nbsp;
+    <img align="center" alt="MM-VSCode" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg">    
+    &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-BootStrap" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
     &nbsp;&nbsp;&nbsp;
-    <img align="center" alt="MM-Trello" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">
+    <img align="center" alt="MM-Trello" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">
     &nbsp;&nbsp;&nbsp;
 </div>
 
@@ -102,30 +105,29 @@ Ferramentas de apoio:
 
 ## Como Rodar o Projeto Localmente:
 1. Clone o repositório:
-
    git clone https://github.com/Marcia-Moreira/Portfolio_Proj_001-Game_Genius_1980.git
 
 ## Minhas idéias de melhorias, implementadas durante o desenvolvimento:
-[ OK ] Delay no iniciar próxima sequencia
-[ OK ] Ao clicar ta ficando marcado default do quadrado inteiro, e está bem feio!
-[ OK ] Botar botão de tirar som? Sim. Podemos já desativar o som.
-[ OK ] Fazer oos botões/pads crescerem ao serem clicados
-[ OK ] Ajustar o tamanho da marca registrada
-[ OK ] Rever os margins e paddis laterais excessivos do codigo agora que está centralizado
-[ OK ] Melhorar a borda do botão on/off
-[ OK ] Centralizar melhor os ítens de dentro do globo central do jogo
-[ OK ] Colocar um botão/ícone de aceleração do jogo
-[ OK ] Criar setor de Instruções do Jogo (Card), com frente em Português e verso em Inglês
-[ OK ] Criar link no Nome do Jogo, na página do jogo, que leva para a página de Intruções
-[ OK ] Criar link no Rodapé do Jogo, na página do jogo, que leva para a página de Intruções
-[ OK ] Estilizar movimento para os links de página para ressaltar ação ao passar o mouse = hover
-[ OK ] Centralizar as âncoras dos link para o topo da página
-[ OK ] Verificar o motivo do card estar fora de centralização horizontal da página
-[ OK ] Criar condição para acelerar a mudança de cores a cada 3 níveis alcançado (front ok)
-[ OK ] Ver se colocamos limites de responsividade no card de instruções
-[    ] Dar um padding no final do card
-[    ] Mudar as cores das teclas ou mantem as cores originais?
-[    ] Verificar se criamos efeito de afundar botão ao apertar!
+- [ OK ] Delay no iniciar próxima sequencia
+- [ OK ] Ao clicar ta ficando marcado default do quadrado inteiro, e está bem feio!
+- [ OK ] Botar botão de tirar som? Sim. Podemos já desativar o som.
+- [ OK ] Fazer oos botões/pads crescerem ao serem clicados
+- [ OK ] Ajustar o tamanho da marca registrada
+- [ OK ] Rever os margins e paddis laterais excessivos do codigo agora que está centralizado
+- [ OK ] Melhorar a borda do botão on/off
+- [ OK ] Centralizar melhor os ítens de dentro do globo central do jogo
+- [ OK ] Colocar um botão/ícone de aceleração do jogo
+- [ OK ] Criar setor de Instruções do Jogo (Card), com frente em Português e verso em Inglês
+- [ OK ] Criar link no Nome do Jogo, na página do jogo, que leva para a página de Intruções
+- [ OK ] Criar link no Rodapé do Jogo, na página do jogo, que leva para a página de Intruções
+- [ OK ] Estilizar movimento para os links de página para ressaltar ação ao passar o mouse = hover
+- [ OK ] Centralizar as âncoras dos link para o topo da página
+- [ OK ] Verificar o motivo do card estar fora de centralização horizontal da página
+- [ OK ] Criar condição para acelerar a mudança de cores a cada 3 níveis alcançado (front ok)
+- [ OK ] Ver se colocamos limites de responsividade no card de instruções
+- [    ] Dar um padding no final do card
+- [    ] Mudar as cores das teclas ou mantem as cores originais?
+- [    ] Verificar se criamos efeito de afundar botão ao apertar!
 
 ## Registros da Construção 🧱:
 - Desenvolvimento Web => *Marcia Moreira*
