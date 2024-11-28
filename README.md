@@ -20,19 +20,15 @@ Jogo retrô, reproduzido para ser usado em encontros famíliares, nas festividad
 - 📈 Pontuação acumulada: O jogo exibe a pontuação atual com base na quantidade de rodadas concluídas.
 - 🔁 Reinício do jogo: Após um erro, o jogador pode reiniciar a partida para tentar novamente.
 - 🔒 Modo estrito (strict): No modo estrito, o jogo é encerrado imediatamente ao primeiro erro, desafiando ainda mais o jogador a acertar todas as sequências sem falhas.
-
-## Implementação de Melhorias de Funcionalidades:
-- ⚡ Velocidade gradativa (opcional): O jogador pode ativar um modo onde a velocidade de exibição das cores aumenta progressivamente, dificultando ainda mais a memorização.
 - 🎵 Efeitos sonoros para cada botão: Cada botão emite um som específico ao ser pressionado, ajudando na memorização.
+
+## Implementação de Melhorias nas Funcionalidades:
+- ⚡ Velocidade gradativa (opcional): O jogador pode ativar um modo onde a velocidade de exibição das cores aumenta progressivamente, dificultando ainda mais a memorização.
 - 🖌️ Interface interativa e nostálgica: Design inspirado no jogo clássico dos anos 80, com botões coloridos e animações simples.
 - 📄 Card 3D: para expôr as informações e Instruções do jogo em português e inglês.
 
 ## Tecnologias Utilizadas:
-
-**Badges**:
-<!-- ### Linguagens: -->
 <div style="display: inline_block" align="center">
-    <h3>Linguagens:</h3>
     <img align="center" alt="MM-Js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;
     <img align="center" alt="MM-Html" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
@@ -135,5 +131,13 @@ Ferramentas de apoio:
 - Desenvolvimento Web => **Marcia Moreira**
 - Iniciado => 18/11/2024.
 - Finalizado Primeiro Deploy => 26/11/2024.
-- Atualização do Projeto: N/A
-- Link WhatsApp => Https://wa.me/5511977219430
+- Atualização do Projeto => N/A
+- Link WhatsApp => +55 11 97721-9430
+<div style="display: inline_block" align="center">
+    <!-- WhatsApp -->
+    <a href="https://wa.me/5511977219430" alt="Meu_WhatsApp" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> &nbsp;
+    <!-- Linkedin -->
+    <a href="https://www.linkedin.com/in/marciamoreiramm/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
+</div>
+
+##
