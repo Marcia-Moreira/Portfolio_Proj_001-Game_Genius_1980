@@ -3,7 +3,7 @@
 Este repositório faz parte de uma série de projetos que demonstram minhas habilidades técnicas e de criatividade, com foco em aplicações interativas e responsivas de desenvolvimento front-end incluídos no meu Portfólio.
 
 ## Link do Projeto Finalizado:
-* clique com o botão direito e escolha "Abrir em nova aba")
+* clique com o botão direito e escolha "Abrir em nova aba"  
 ☑️ Projeto finalizado / Deploy no GitHub Pages: https://marcia-moreira.github.io/Portfolio_Proj_001-Game_Genius_1980/
 
 ## Nome do Projeto: GENIUS GAME
@@ -126,9 +126,10 @@ Ferramentas de apoio:
 - [ OK ] Verificar o motivo do card estar fora de centralização horizontal da página
 - [ OK ] Criar condição para acelerar a mudança de cores a cada 3 níveis alcançado (front ok)
 - [ OK ] Ver se colocamos limites de responsividade no card de instruções
-- [    ] Dar um padding no final do card
+- [ OK ] Dar um padding no final do card
 - [    ] Mudar as cores das teclas ou mantem as cores originais?
 - [    ] Verificar se criamos efeito de afundar botão ao apertar!
+- [    ] Verificar responsividade em celulares iphone de telas menores e mais antigos (Teste Udson-Senac)
 
 ## Registros da Construção 🧱:
 - Desenvolvimento Web => *Marcia Moreira*
